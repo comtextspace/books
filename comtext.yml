@@ -1,0 +1,9 @@
+vuepress:
+  title: "Библиотека"
+  base: "/"
+
+pages:
+  - readme.md
+
+books:
+  - Поварнин Сергей Иннокентьевич. Как читать книги\book.yml

@@ -1,0 +1,60 @@
+name: deploy_site
+
+on:
+  - push
+  - workflow_dispatch
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Checkout tools repo
+        uses: actions/checkout@v2
+        with:
+          repository: ZaryaXYZ/comtext_builder
+          path: builder
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: "14"
+
+      # cache node_modules
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        id: yarn-cache
+        with:
+          path: |
+            **/node_modules
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+
+      # install dependencies if the cache did not hit
+      - name: Install dependencies
+        if: steps.yarn-cache.outputs.cache-hit != 'true'
+        run: |
+          cd builder
+          yarn --frozen-lockfile
+
+      - name: Build pages
+        run: |
+          cd builder
+          node ./make_files.js
+
+      # run build script
+      - name: Build VuePress site
+        run: |
+          cd builder          
+          yarn docs:build
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: gh-pages
+          build_dir: builder/docs/.vuepress/dist
+          fqdn: books.zarya.xyz
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
