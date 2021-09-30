@@ -1,6 +1,6 @@
 # Библиотека
 
-![Actions Status](https://github.com/ZaryaXYZ/books/workflows/deploy_site/badge.svg)](https://github.com/ZaryaXYZ/books/actions)
+[![Actions Status](https://github.com/ZaryaXYZ/books/workflows/deploy_site/badge.svg)](https://github.com/ZaryaXYZ/books/actions)
 
 Сайт с книгами: [books.zarya.xyz](https://books.zarya.xyz).
 
