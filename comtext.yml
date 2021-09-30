@@ -3,7 +3,7 @@ vuepress:
   base: "/"
 
 pages:
-  - readme.md
+  - index.md
 
 books:
   - поварнин_сергей_иннокентьевич/как_читать_книги.yml
