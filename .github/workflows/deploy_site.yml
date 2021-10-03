@@ -42,7 +42,7 @@ jobs:
       - name: Build pages
         run: |
           cd builder
-          node ./make_files.js
+          node ./index.js
 
       # run build script
       - name: Build VuePress site
