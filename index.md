@@ -1,6 +1,6 @@
 # Библиотека
 
-Книги в формате [Cometex](https://comtext.zarya.xyz/) находятся в [репозитории проекта](https://github.com/ZaryaXYZ/books). Для работы ознакомьтесь с 
+Книги в формате [ComText](https://comtext.zarya.xyz/) находятся в [репозитории проекта](https://github.com/ZaryaXYZ/books). Для работы ознакомьтесь с 
 [инструкцией текстологической работы](https://comtext.zarya.xyz/intro.html).
 
 ## Книги
