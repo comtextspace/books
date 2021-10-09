@@ -1,7 +1,10 @@
 # Библиотека
 
-Книги в формате [ComText](https://comtext.zarya.xyz/) находятся в [репозитории проекта](https://github.com/ZaryaXYZ/books). Для работы ознакомьтесь с 
-[инструкцией текстологической работы](https://comtext.zarya.xyz/intro.html).
+Портал [Books.Zarya](https://books.zarya.xyz) основан на идеях автоматизации текстологической работы, представленных в статьях [Что не так с текстологией и как исправить ситуацию?](http://propaganda-journal.net/10390.html).
+
+Книги в формате [ComText](https://comtext.zarya.xyz/) находятся в [репозитории проекта](https://github.com/ZaryaXYZ/books).
+
+Будем рады любой помощи: как в сканировании и вычитке, так и в разработке платформы (используется Python и JavaScript). При желании помочь, напишите сообщение в [сообщество](https://vk.com/zarya_xyz). Для помощи в вычитке ознакомьтесь с [инструкцией текстологической работы](https://comtext.zarya.xyz/intro.html).
 
 ## Книги
 
