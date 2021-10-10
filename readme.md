@@ -4,7 +4,7 @@
 
 Сайт с книгами: [books.zarya.xyz](https://books.zarya.xyz).
 
-Репозиторий с книгами в формате [ComText](https://comtext.zarya.xyz/). Для работы ознакомьтесь с [инструкцией текстологической работы](https://comtext.zarya.xyz/intro.html).
+Репозиторий с книгами в формате [ComText](https://comtext.zarya.xyz/). Для работы ознакомьтесь с [инструкцией текстологической работы](https://comtext.zarya.xyz/intro.html) и [рекомендациями](contributing.md).
 
 
 
