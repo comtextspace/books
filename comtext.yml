@@ -1,6 +1,7 @@
 vuepress:
   title: "Библиотека"
   base: "/"
+  revisionmeProjectId: "-MOR7xqTF7hPu4OL6Na0"
 
 pages:
   - index.md
