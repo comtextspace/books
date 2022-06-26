@@ -55,6 +55,6 @@ jobs:
         with:
           target_branch: gh-pages
           build_dir: builder/docs/.vuepress/dist
-          fqdn: books.zarya.xyz
+          fqdn: comtext.space
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
