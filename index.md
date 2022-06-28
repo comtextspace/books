@@ -2,9 +2,9 @@
 
 Портал [comtext.space](https://comtext.space) основан на идеях автоматизации текстологической работы, представленных в статьях [Что не так с текстологией и как исправить ситуацию?](http://propaganda-journal.net/10390.html).
 
-Книги в формате [ComText](https://format.comtext.space) находятся в [репозитории проекта](https://github.com/comtextspace/books).
+Книги в формате [ComText](https://wiki.comtext.space/ru/format-comtext) находятся в [репозитории проекта](https://github.com/comtextspace/books).
 
-Будем рады любой помощи: как в сканировании и вычитке, так и в разработке платформы (используется Python и JavaScript). Для помощи в вычитке ознакомьтесь с [инструкцией текстологической работы](http://format.comtext.space/intro.html).
+Будем рады любой помощи: как в сканировании и вычитке, так и в разработке платформы (используется Python и JavaScript). Для помощи в вычитке ознакомьтесь с [инструкцией текстологической работы](https://wiki.comtext.space/ru/git-guide).
 
 ## Книги
 
