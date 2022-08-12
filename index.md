@@ -43,6 +43,8 @@
 
 - [Том 1](chernyshevsky01.md)
 - [Том 2](chernyshevsky02.md)
+- [Том 3](chernyshevsky03.md)
+
 
 
 
