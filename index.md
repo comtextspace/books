@@ -4,7 +4,12 @@
 
 Книги в формате [ComText](https://wiki.comtext.space/ru/format-comtext) находятся в [репозитории проекта](https://github.com/comtextspace/books).
 
-Будем рады любой помощи: как в сканировании и вычитке, так и в разработке платформы (используется Python и JavaScript). Для помощи в вычитке ознакомьтесь с [инструкцией текстологической работы](https://wiki.comtext.space/ru/git-guide). Вопросы и предложения обсуждаются на форуме [discourse.comtext.space](https://discourse.comtext.space). Полный список проектов в [wiki](https://wiki.comtext.space).
+Будем рады любой помощи: как в сканировании и вычитке, так и в разработке платформы (используется Python и JavaScript). Для помощи в вычитке ознакомьтесь с [инструкцией текстологической работы](https://wiki.comtext.space/ru/git-guide). Вопросы и предложения обсуждаются на форуме [discourse.comtext.space](https://discourse.comtext.space). Дополнительная информация есть в [wiki](https://wiki.comtext.space).
+
+Отдельные проекты:
+
+- [scan.comtext.space](https://scan.comtext.space) — каталог архивов со сканами.
+- [research.comtext.space](https://research.comtext.space) — материалы по исторической информатике, текстологии и оцифровке.
 
 ## Книги
 
@@ -48,6 +53,3 @@
 ## Карл Маркс
 
 - [Критика Гегелевской философии права](Критика_философии_права.md)
-
-
-
