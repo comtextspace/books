@@ -6,6 +6,8 @@
 
 Будем рады любой помощи: как в сканировании и вычитке, так и в разработке платформы (используется Python и JavaScript). Для помощи в вычитке ознакомьтесь с [инструкцией текстологической работы](https://wiki.comtext.space/ru/git-guide). Вопросы и предложения обсуждаются на форуме [discourse.comtext.space](https://discourse.comtext.space). Дополнительная информация есть в [wiki](https://wiki.comtext.space).
 
+Для сообщения об опечатке выделите текст и нажмите `ctrl`+`Enter`.
+
 Отдельные проекты:
 
 - [scan.comtext.space](https://scan.comtext.space) — каталог архивов со сканами.
