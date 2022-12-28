@@ -6,7 +6,8 @@
 
 - [Текстология и искры](https://vk.com/@zarya_xyz-tekstologiya-i-iskry)
 - [Что такое текстологическая работа и зачем она нужна](https://vk.com/@zarya_xyz-chto-takoe-tekstologicheskaya-rabota-i-zachem-ona-nuzhna)
-- [Что не так с текстологией и как исправить ситуацию?](http://propaganda-journal.net/10390.html)
+- [О воспитательном значении текстологической работы](о_воспитательном_значении_текстологической_работы.md)
+- [Что не так с текстологией и как исправить ситуацию](что_не_так_с_текстологией_и_как_исправить_ситуацию.md)
 
 Для вопросов и обсуждений открыт форум [discourse.comtext.space](https://discourse.comtext.space). Инструкции размещены в [wiki](https://wiki.comtext.space).
 
