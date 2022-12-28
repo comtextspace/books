@@ -5,6 +5,7 @@
 Проще говоря, мы оцифровываем книги и статьи, обсуждаем их и пытаемся переводить. Всё это проходит в контексте глобальной задачи — переход общества на следующих этап развития. Развернутое теоретическое обоснование работы находится следующих статьях:
 
 - [Текстология и искры](https://vk.com/@zarya_xyz-tekstologiya-i-iskry)
+- [Что такое текстологическая работа и зачем она нужна](https://vk.com/@zarya_xyz-chto-takoe-tekstologicheskaya-rabota-i-zachem-ona-nuzhna)
 - [Что не так с текстологией и как исправить ситуацию?](http://propaganda-journal.net/10390.html)
 
 Для вопросов и обсуждений открыт форум [discourse.comtext.space](https://discourse.comtext.space). Инструкции размещены в [wiki](https://wiki.comtext.space).
