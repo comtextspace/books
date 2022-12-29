@@ -32,6 +32,7 @@
 - [Том 1](chernyshevsky01.md)
 - [Том 2](chernyshevsky02.md)
 - [Том 3](chernyshevsky03.md)
+- [Том 7](chernyshevsky07.md)
 
 ## Другие книги
 
