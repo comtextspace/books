@@ -42,7 +42,7 @@
 ## Н. Г. Чернышевский
 
 - [Том 1](chernyshevsky01.md) ([comtext](files/chernyshevsky01.ct))
-- [Том 2](chernyshevsky02.md)
+- [Том 2](chernyshevsky02.md) ([comtext](files/chernyshevsky02.ct))
 - [Том 3](chernyshevsky03.md)
 - [Том 7](chernyshevsky07.md)
 
