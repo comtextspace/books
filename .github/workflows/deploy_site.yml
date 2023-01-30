@@ -6,8 +6,11 @@ on:
 
 jobs:
   publish:
-    runs-on: pandoc/core-ubuntu
+    runs-on: ubuntu-latest
     steps:
+      - name: Install xmllint
+        run: sudo apt-get install -y pandoc
+
       - name: Checkout
         uses: actions/checkout@v2
       - name: Checkout tools repo
