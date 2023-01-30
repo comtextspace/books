@@ -28,9 +28,9 @@
 
 ## Кибернетика
 
-- [Что такое ОГАС?](библиотечка_квант_10_что_такое_огас.md) ([comtext](files/библиотечка_квант_10_что_такое_огас.ct))
-- [Очерки истории кибернетики в СССР](Очерки_истории_кибернетики.md) ([comtext](files/Очерки_истории_кибернетики.ct))
-- [Моев. В. Бразды управления. Диалог с академиком В. М. Глушковым](моев_бразды_управления.md) ([comtext](files/моев_бразды_управления.ct))
+- [Что такое ОГАС?](библиотечка_квант_10_что_такое_огас.md) ([comtext](files/библиотечка_квант_10_что_такое_огас.ct), [fb2](files/библиотечка_квант_10_что_такое_огас.fb2))
+- [Очерки истории кибернетики в СССР](Очерки_истории_кибернетики.md) ([comtext](files/Очерки_истории_кибернетики.ct), [fb2](files/Очерки_истории_кибернетики.fb2))
+- [Моев. В. Бразды управления. Диалог с академиком В. М. Глушковым](моев_бразды_управления.md) ([comtext](files/моев_бразды_управления.ct), [fb2](files/моев_бразды_управления.fb2))
 
 ## К. Маркс
 
@@ -45,9 +45,9 @@
 
 ## Н. Г. Чернышевский
 
-- [Том 1](chernyshevsky01.md) ([comtext](files/chernyshevsky01.ct))
-- [Том 2](chernyshevsky02.md) ([comtext](files/chernyshevsky02.ct))
-- [Том 3](chernyshevsky03.md)
+- [Том 1](chernyshevsky01.md) ([comtext](files/chernyshevsky01.ct), [fb2](files/chernyshevsky01.fb2))
+- [Том 2](chernyshevsky02.md) ([comtext](files/chernyshevsky02.ct), [fb2](files/chernyshevsky02.fb2))
+- [Том 3](chernyshevsky03.md) ([comtext](files/chernyshevsky03.ct), [fb2](files/chernyshevsky03.fb2))
 - [Том 7](chernyshevsky07.md)
 
 ## Другие книги
