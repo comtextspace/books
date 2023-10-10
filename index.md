@@ -49,6 +49,7 @@
 - [Том 1](chernyshevsky01.md) ([comtext](files/chernyshevsky01.ct), [fb2](files/chernyshevsky01.fb2))
 - [Том 2](chernyshevsky02.md) ([comtext](files/chernyshevsky02.ct), [fb2](files/chernyshevsky02.fb2))
 - [Том 3](chernyshevsky03.md) ([comtext](files/chernyshevsky03.ct), [fb2](files/chernyshevsky03.fb2))
+- [Том 4](chernyshevsky04.md)
 - [Том 7](chernyshevsky07.md)
 
 ## Другие книги
