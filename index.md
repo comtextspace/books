@@ -49,9 +49,9 @@
 - [Том 1](chernyshevsky01.md) ([comtext](files/chernyshevsky01.ct), [fb2](files/chernyshevsky01.fb2))
 - [Том 2](chernyshevsky02.md) ([comtext](files/chernyshevsky02.ct), [fb2](files/chernyshevsky02.fb2))
 - [Том 3](chernyshevsky03.md) ([comtext](files/chernyshevsky03.ct), [fb2](files/chernyshevsky03.fb2))
-- [Том 4](chernyshevsky04.md) ([comtext](files/chernyshevsky04.ct), [fb2](files/chernyshevsky04.fb2))
-- [Том 5](chernyshevsky05.md) ([comtext](files/chernyshevsky05.ct), [fb2](files/chernyshevsky05.fb2))
-- [Том 6](chernyshevsky06.md) ([comtext](files/chernyshevsky06.ct), [fb2](files/chernyshevsky06.fb2))
+- [Том 4](chernyshevsky04.md) ([comtext](files/chernyshevsky04.ct))
+- [Том 5](chernyshevsky05.md) ([comtext](files/chernyshevsky05.ct))
+- [Том 6](chernyshevsky06.md) ([comtext](files/chernyshevsky06.ct))
 - [Том 7](chernyshevsky07.md)
 
 ## Другие книги
@@ -78,8 +78,8 @@
 - [Мареев С. Встреча с философом Э. Ильенковым](встреча_с_философом_э_ильенковым.md) ([comtext](files/встреча_с_философом_э_ильенковым.ct), [fb2](files/встреча_с_философом_э_ильенковым.fb2))
 - [Злотина М. Л. Диалектика](злотина_диалектика.md) ([comtext](files/злотина_диалектика.ct), [fb2](files/злотина_диалектика.fb2))
 - [Потемкин А. В. О специфике философского знания](о_специфике_философского_знания.md) ([comtext](files/о_специфике_философского_знания.ct), [fb2](files/о_специфике_философского_знания.fb2))
-- [Серебряков М. В. Фридрих Энгельс в молодости](фридрих_энгельс_в_молодости.md) ([comtext](files/фридрих_энгельс_в_молодости.ct), [fb2](files/фридрих_энгельс_в_молодости.fb2))
-- [Заботин П. С. Преодоление заблуждения в научном познании](преодоление_заблуждения_в_научном_познании.md) ([comtext](files/преодоление_заблуждения_в_научном_познании.ct), [fb2](files/преодоление_заблуждения_в_научном_познании.fb2))
+- [Серебряков М. В. Фридрих Энгельс в молодости](фридрих_энгельс_в_молодости.md) ([comtext](files/фридрих_энгельс_в_молодости.ct))
+- [Заботин П. С. Преодоление заблуждения в научном познании](преодоление_заблуждения_в_научном_познании.md) ([comtext](files/преодоление_заблуждения_в_научном_познании.ct))
 
 ## Статьи
 
