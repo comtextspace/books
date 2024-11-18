@@ -6,8 +6,8 @@
 
 - [Текстология и искры](https://vk.com/@zarya_xyz-tekstologiya-i-iskry)
 - [Что такое текстологическая работа и зачем она нужна](https://vk.com/@zarya_xyz-chto-takoe-tekstologicheskaya-rabota-i-zachem-ona-nuzhna)
-- [О воспитательном значении текстологической работы](о_воспитательном_значении_текстологической_работы.md)
-- [Что не так с текстологией и как исправить ситуацию](что_не_так_с_текстологией_и_как_исправить_ситуацию.md)
+- [О воспитательном значении текстологической работы](https://propjourn.github.io/site/static/о_воспитательном_значении_текстологической_работы.html)
+- [Что не так с текстологией и как исправить ситуацию](https://propjourn.github.io/site/static/что_не_так_с_текстологией_и_как_исправить_ситуацию.html)
 
 Книги в формате [ComText](https://research.comtext.space/format-comtext.html) находятся в [репозитории проекта](https://github.com/comtextspace/books).
 
