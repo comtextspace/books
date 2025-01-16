@@ -19,6 +19,8 @@
 
 - [scan.comtext.space](https://scan.comtext.space) — каталог архивов со сканами.
 - [research.comtext.space](https://research.comtext.space) — материалы по исторической информатике, текстологии и оцифровке.
+- [lit-kritik.comtext.space](https://lit-kritik.comtext.space/) — журнал «Литературный критик».
+- [kibernetiko.comtext.space](https://kibernetiko.comtext.space) — материалы по кибернетике.
 
 ---
 
