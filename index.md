@@ -21,6 +21,7 @@
 - [research.comtext.space](https://research.comtext.space) — материалы по исторической информатике, текстологии и оцифровке.
 - [lit-kritik.comtext.space](https://lit-kritik.comtext.space/) — журнал «Литературный критик».
 - [kibernetiko.comtext.space](https://kibernetiko.comtext.space) — материалы по кибернетике.
+- [esperanto.comtext.space](https://esperanto.comtext.space) — литература на Эсперанто.
 
 ---
 
