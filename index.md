@@ -23,6 +23,7 @@
 - [kibernetiko.comtext.space](https://kibernetiko.comtext.space) — материалы по кибернетике.
 - [esperanto.comtext.space](https://esperanto.comtext.space) — литература на Эсперанто.
 - [rubin.comtext.space](https://rubin.comtext.space) — Архив работ Исаака Ильича Рубина.
+- [dk.comtext.space](https://dk.comtext.space) — Архив конференции «Ильенковские чтения».
 
 ---
 
