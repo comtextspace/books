@@ -26,6 +26,7 @@
 - [dk.comtext.space](https://dk.comtext.space) — Архив конференции «Ильенковские чтения».
 - [chernyshevsky.comtext.space](https://chernyshevsky.comtext.space) — Собрание сочинений Н. Г. Чернышевского.
 - [glushkov-conf.comtext.space](https://glushkov-conf.comtext.space) — Архив конференции «Глушковские чтения».
+- [the-communist-manifesto.comtext.space](https://the-communist-manifesto.comtext.space) — параллельный перевод «Манифеста Коммунистической партии».
 
 ---
 
