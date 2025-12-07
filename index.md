@@ -18,7 +18,8 @@
 Связанные проекты:
 
 - [scan.comtext.space](https://scan.comtext.space) — каталог архивов со сканами.
-- [research.comtext.space](https://research.comtext.space) — материалы по исторической информатике, текстологии и оцифровке.
+- [research.comtext.space](https://research.comtext.space) — статьи и заметки на тему текстологии, кибернетики, теоретической экономии и самообразовании.
+- [textual-criticism.comtext.space](https://textual-criticism.comtext.space) — материалы по исторической информатике, текстологии и оцифровке.
 - [lit-kritik.comtext.space](https://lit-kritik.comtext.space/) — журнал «Литературный критик».
 - [kibernetiko.comtext.space](https://kibernetiko.comtext.space) — материалы по кибернетике.
 - [esperanto.comtext.space](https://esperanto.comtext.space) — литература на Эсперанто.
