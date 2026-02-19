@@ -23,12 +23,12 @@
 - [lit-kritik.comtext.space](https://lit-kritik.comtext.space/) — журнал «Литературный критик».
 - [kibernetiko.comtext.space](https://kibernetiko.comtext.space) — материалы по кибернетике.
 - [esperanto.comtext.space](https://esperanto.comtext.space) — литература на Эсперанто.
-- [rubin.comtext.space](https://rubin.comtext.space) — Архив работ Исаака Ильича Рубина.
+- [rubin.comtext.space](https://rubin.comtext.space) — Архив Исаака Ильича Рубина.
 - [dk.comtext.space](https://dk.comtext.space) — Архив конференции «Ильенковские чтения».
 - [chernyshevsky.comtext.space](https://chernyshevsky.comtext.space) — Собрание сочинений Н. Г. Чернышевского.
 - [glushkov-conf.comtext.space](https://glushkov-conf.comtext.space) — Архив конференции «Глушковские чтения».
 - [the-communist-manifesto.comtext.space](https://the-communist-manifesto.comtext.space) — параллельный перевод «Манифеста Коммунистической партии».
-- [schaelike.comtext.space](https://schaelike.comtext.space) — Архив работ Вальтраут Фрицевны Шелике.
+- [schaelike.comtext.space](https://schaelike.comtext.space) — Архив Вальтраут Фрицевны Шелике.
 
 ---
 
