@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Библиотека</title>
+  <entry>
+    <title>Как читать книги</title>
+    <updated>2026-02-19T06:02:04.764Z</updated>
+    <link href="files/kak_chitat_knigi.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Сергей Иннокентьевич Поварнин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Диалог с Эвальдом Ильенковым</title>
+    <updated>2026-02-19T06:02:06.979Z</updated>
+    <link href="files/dialog_s_ilenkovym.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Михаил Лифшиц</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Избранные философские сочинения</title>
+    <updated>2026-02-19T06:02:12.635Z</updated>
+    <link href="files/izbrannye_filosofskie_sochineniya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Иосиф Дицген</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Исторический материализм</title>
+    <updated>2026-02-19T06:02:23.311Z</updated>
+    <link href="files/istoricheskiy_materializm.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Федор Васильевич Константинов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Вопросы теории товара и стоимости в капитале К. Маркса</title>
+    <updated>2026-02-19T06:02:25.475Z</updated>
+    <link href="files/voprosy_teorii_tovara_i_stoimosti_v_kapitale_k_marksa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Николай Владимирович Хессин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Теория отражения и современная наука о мозге</title>
+    <updated>2026-02-19T06:02:26.265Z</updated>
+    <link href="files/teoriya_otrazheniya_i_sovremennaya_nauka_o_mozge.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Пётр Кузьмич Анохин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Диалектическая логика</title>
+    <updated>2026-02-19T06:02:36.051Z</updated>
+    <link href="files/dialekticheskaya_logika.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Эвальд Васильевич Ильенков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Оглавление полного собрания сочинений Э. Ильенкова</title>
+    <updated>2026-02-19T06:02:36.332Z</updated>
+    <link href="files/oglavlenie_pss_e_ilenkova.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Эвальд Васильевич Ильенков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Меркантилизм</title>
+    <updated>2026-02-19T06:02:41.779Z</updated>
+    <link href="files/merkantilizm.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>И. С. Плотников</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Основное противоречие советской философии</title>
+    <updated>2026-02-19T06:02:42.398Z</updated>
+    <link href="files/osnovnoe_protivorechie_sovetskoy_filosofii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Василий Пихорович</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О культуре мышления</title>
+    <updated>2026-02-19T06:02:42.731Z</updated>
+    <link href="files/zabelin_o_kulture_myshleniya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>И. Забелин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Эрнст и Фальк. Беседы для масонов</title>
+    <updated>2026-02-19T06:02:43.381Z</updated>
+    <link href="files/besedy_dlya_masonov.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Готхольд Эфраим Лессинг</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Под Знаменем Марксизма 1922 01-02</title>
+    <updated>2026-02-19T06:02:44.917Z</updated>
+    <link href="files/pod_znamenem_marksizma_1922_01-02.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Книгоиздательство «Материалист»</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Под Знаменем Марксизма 1922 03</title>
+    <updated>2026-02-19T06:02:47.337Z</updated>
+    <link href="files/pod_znamenem_marksizma_1922_03.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Книгоиздательство «Материалист»</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Экономическое учение Карла Маркса</title>
+    <updated>2026-02-19T06:02:50.678Z</updated>
+    <link href="files/ekonomicheskoe_uchenie_karla_marksa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Карл Каутский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>История теории стоимости в Англии и учение Маркса</title>
+    <updated>2026-02-19T06:02:52.873Z</updated>
+    <link href="files/istoriya_teorii_stoimosti_v_anglii_i_uchenie_marksa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Вильгельм Либкнехт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Труд производительный и труд, образующий ценность</title>
+    <updated>2026-02-19T06:02:53.646Z</updated>
+    <link href="files/trud_proizvoditelnyy_i_trud_obrazuyushchiy_cennost.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Владимир Александрович Базаров</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Стачка как бой</title>
+    <updated>2026-02-19T06:02:55.653Z</updated>
+    <link href="files/stachka_kak_boy.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>А. Лозовский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Диалектика труда в философской системе Гегеля</title>
+    <updated>2026-02-19T06:02:59.570Z</updated>
+    <link href="files/dialektika_truda_v_filosofskoy_sisteme_gegelya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Игорь Барсуков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Человек. Мир. Мировоззрение</title>
+    <updated>2026-02-19T06:03:02.658Z</updated>
+    <link href="files/chelovek_mir_mirovozzrenie.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Владимир Вячеславович Орлов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Диалектика</title>
+    <updated>2026-02-19T06:03:06.485Z</updated>
+    <link href="files/zlotina_dialektika.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Мария Львовна Злотина</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Встреча с философом Э. Ильенковым</title>
+    <updated>2026-02-19T06:03:08.756Z</updated>
+    <link href="files/vstrecha_s_filosofom_e_ilenkovym.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Сергей Николаевич Мареев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О специфике философского знания</title>
+    <updated>2026-02-19T06:03:11.238Z</updated>
+    <link href="files/o_specifike_filosofskogo_znaniya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Алексей Васильевич Потемкин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Фридрих Энгельс в молодости</title>
+    <updated>2026-02-19T06:03:26.207Z</updated>
+    <link href="files/fridrih_engels_v_molodosti.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Михаил Васильевич Серебряков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Преодоление заблуждения в научном познании</title>
+    <updated>2026-02-19T06:03:31.371Z</updated>
+    <link href="files/preodolenie_zabluzhdeniya_v_nauchnom_poznanii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Павел Степанович Заботин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Первые марксисты России</title>
+    <updated>2026-02-19T06:03:32.695Z</updated>
+    <link href="files/pervye_marksisty_rossii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Ю. 3. Полевой</name>
+    </author>
+    <author>
+      <name>И. А. Чемерисский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Социал-демократические организации Петербурга конца 80-х — начала 90-х годов (кружки П. В. Точисского и М. И. Бруснева)</title>
+    <updated>2026-02-19T06:03:34.906Z</updated>
+    <link href="files/kazakevich_social_demokraticheskie_organizacii_peterburga.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Р. А. Казакевич</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Группа Благоева</title>
+    <updated>2026-02-19T06:03:36.228Z</updated>
+    <link href="files/ovsyannikova_gruppa_blagoeva.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>С. Овсянникова</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Всеобщая теория развития</title>
+    <updated>2026-02-19T06:03:43.601Z</updated>
+    <link href="files/vseobshchaya_teoriya_razvitiya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Валерий Алексеевич Босенко</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О мышлении и путях его исследования</title>
+    <updated>2026-02-19T06:03:45.925Z</updated>
+    <link href="files/o_myshlenii_i_putyah_ego_issledovaniya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>С. Л. Рубинштейн</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Пражское воззвание</title>
+    <updated>2026-02-19T06:03:46.134Z</updated>
+    <link href="files/myuncer-prazhskoe-vozzvanie.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Томас Мюнцер</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Проблемы и трудности перевода некоторых марксовых философских понятий</title>
+    <updated>2026-02-19T06:03:46.622Z</updated>
+    <link href="files/batishchev-problemy-i-trudnosti-perevoda-nekotoryh-marksovyh-filosofskih-ponyatiy.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Генрих Степанович Батищев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Какого же Маркса мы читаем?</title>
+    <updated>2026-02-19T06:03:47.231Z</updated>
+    <link href="files/kondrashov-kakogo-zhe-marksa-my-chitaem.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Петр Николаевич Кондрашов</name>
+    </author>
+  </entry>
+</feed>
