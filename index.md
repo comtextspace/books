@@ -30,6 +30,7 @@
 - [the-communist-manifesto.comtext.space](https://the-communist-manifesto.comtext.space) — параллельный перевод «Манифеста Коммунистической партии».
 - [schaelike.comtext.space](https://schaelike.comtext.space) — Архив Вальтраут Фрицевны Шелике.
 - [khessin.comtext.space](https://khessin.comtext.space) — Архив Николая Владимировича Хессина.
+- [value-form.comtext.space](https://value-form.comtext.space) — книги по политической экономии.
 
 ---
 
