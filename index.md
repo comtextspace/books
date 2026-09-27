@@ -31,6 +31,7 @@
 - [schaelike.comtext.space](https://schaelike.comtext.space) — Архив Вальтраут Фрицевны Шелике.
 - [khessin.comtext.space](https://khessin.comtext.space) — Архив Николая Владимировича Хессина.
 - [value-form.comtext.space](https://value-form.comtext.space) — книги по политической экономии.
+- [visualkapital.comtext.space](https://visualkapital.comtext.space) — визуализация количественных соотношений в «Капитале» К. Маркса.
 
 ---
 
